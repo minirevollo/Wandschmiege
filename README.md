@@ -10,7 +10,7 @@ Bestehend aus 3D-druckbaren Teilen und Standartelementen.
 Mit Sketchup konstruiert und als STL exportiert. Ziel war es ein Werkzeug zu erstellen, dass überwiegend mit Serienteilen zu produzieren ist und nur zwei Teile gedruckt werden müssen. Wer keinen 3D Drucker hat kommt einfach mal in den erfindergarden und wir helfen ihm weiter.
 # Druck #
 Slicen mit Craftware und Druck auf einem Craftbot
-# Produktionsort '
+# Produktionsort #
 erfindergarden.de , das Fab Lab in der Au - München#
 # Funktion #
 Die Funktion ist auf dem folgenden Bild erklärt:
